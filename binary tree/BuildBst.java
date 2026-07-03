@@ -1,0 +1,12 @@
+class TreeNode{
+    int val;
+    TreeNode right;
+    TreeNode left;
+
+    public TreeNode(int val){
+        this.val=val;
+    }
+}
+class BuildBst{
+    public Node BST(TreeNode ,)
+}
